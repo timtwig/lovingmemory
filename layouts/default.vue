@@ -117,7 +117,7 @@ html {
   }
 
   &.tribute {
-    background: #2b3143;
+    background: #3c1832;
     justify-content: space-evenly;
     overflow: auto;
     height: 100vh;
