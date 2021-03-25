@@ -5,7 +5,7 @@
 </template>
 
 <style lang="scss">
-$highlight: #3c1832;
+$highlight: #8c4078;
 $highlightmuted: #f41b8ed9;
 html {
   font-family: 'Lato', sans-serif;
