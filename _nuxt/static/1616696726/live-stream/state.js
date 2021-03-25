@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1616696726",layout:"default",error:{statusCode:404,path:a,message:"This page could not be found"},serverRendered:false,routePath:a,config:{name:"Sylvia Atkins",dates:"23rd March 1944 - 12th March 2021"}}}("\u002Flive-stream"));
