@@ -5,13 +5,13 @@
     </div>
     <div class="section details">
       <h1 class="title">Service details</h1>
-      <p><em>Tuesday 6th April 2021</em> 
-      Due to COVID-19 the services are restricted in the number of people allowed. The plan is to live stream the services so everyone who wants to attend will be able to do so virtually. We will also hold a celebration of Sylvia's life later in the year when COVID-19 restrictions are relaxed.</p>
+      <p><em>Tuesday 6th April 2021</em></p>
+      Due to current restrictions, we are planning to live stream the service so everyone who wants to join us will be able to do so virtually. We also hope to hold a celebration of Sylvia's life later in the year, circumstances permitting.</p>
             <p>As attendance is restricted due to COVID-19 we hope that you will join us virtually.</p>
       <h2>Church Service - Livestream</h2>
       <p>The church service is being performed at Bromford Bridge Christian Centre
       </p>
-      <a class="button" target="_blank" rel=”noopener” href="">Click here for the Livestream - 12pm</a>
+      <a class="button" target="_blank" rel=”noopener” href="">Click here for the Livestream</a>
       <h2>Church Service - Order - 12pm</h2>
       <ul class="fa-ul">
         <ListItem>Service starts at 12pm at Bromford Bridge Christian Centre</ListItem>
