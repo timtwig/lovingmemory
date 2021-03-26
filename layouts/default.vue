@@ -131,6 +131,13 @@ html {
       border: 8px solid #fff;
       box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.6);
     }
+    img.top {
+      //-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+      //filter: grayscale(100%);
+      box-sizing: content-box;
+      border: 0px solid #fff;
+      box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.6);
+    }
   }
   &.details {
     background: #3c1832;
