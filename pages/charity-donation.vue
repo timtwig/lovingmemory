@@ -12,8 +12,9 @@
       </p>
 
   </div>
+        <a class="button" target="_blank" rel=”noopener” href="">Donate here</a>
 </template>
-      <a class="button" target="_blank" rel=”noopener” href="">Donate here</a>
+
 <script>
 export default {}
 </script>
