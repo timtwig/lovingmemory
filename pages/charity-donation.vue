@@ -10,7 +10,7 @@
       <p>Sylvia loved to sponsor children through the Christian charity <em>Compassion UK</em> and we would appreciate your ongoing support for their fantastic work in helping children all over the world.
 
       </p>
-      <a class="button" target="_blank" rel=”noopener” href="">Donate here</a>
+      <a class="button" target="_blank" rel=”noopener” href="https://abtaylorfunerals.co.uk/donations/">Donate here</a>
   </div>
   
 </template>
