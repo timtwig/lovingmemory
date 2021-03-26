@@ -1,6 +1,6 @@
+  <template>
   <div class="container">
     <div class="section links">
-<template>
       <Nav />
     </div>
     <div class="section tribute">
