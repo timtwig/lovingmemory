@@ -239,7 +239,7 @@ ul {
   font-family: 'Pinyon Script', cursive;
   display: block;
   font-weight: 300;
-  font-size: 60px;
+  font-size: 55px;
   color: #35495e;
   letter-spacing: 1px;
   margin: 40px 0;
@@ -252,7 +252,7 @@ ul {
 
 .subtitle {
   font-weight: 300;
-  font-size: 18px;
+  font-size: 17px;
   color: #adb4c7;
   margin: 40px 0;
   @media screen and (max-width: 800px) {
