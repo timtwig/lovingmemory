@@ -129,7 +129,7 @@ html {
       //filter: grayscale(100%);
       box-sizing: content-box;
       border: 8px solid #fff;
-      box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.6);
+      box-shadow: 0 0 0px 0px rgba(0, 0, 0, 0.6);
     }
     img.top {
       //-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
@@ -239,7 +239,7 @@ ul {
   font-family: 'Pinyon Script', cursive;
   display: block;
   font-weight: 300;
-  font-size: 55px;
+  font-size: 50px;
   color: #35495e;
   letter-spacing: 1px;
   margin: 40px 0;
@@ -252,7 +252,7 @@ ul {
 
 .subtitle {
   font-weight: 300;
-  font-size: 17px;
+  font-size: 15px;
   color: #adb4c7;
   margin: 40px 0;
   @media screen and (max-width: 800px) {
