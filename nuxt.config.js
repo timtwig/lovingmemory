@@ -1,4 +1,4 @@
-const name = 'Sylvia Atkins'
+const name = 'Sylvia Irene Atkins'
 const dates = '23rd March 1944 - 12th March 2021'
 
 export default {
