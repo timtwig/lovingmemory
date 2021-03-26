@@ -225,7 +225,7 @@ ul {
   }
 }
 .name {
-  font-size: 40px;
+  font-size: 50px;
   color: #fff;
   font-weight: 300;
 }
@@ -233,7 +233,7 @@ ul {
   font-family: 'Pinyon Script', cursive;
   display: block;
   font-weight: 300;
-  font-size: 50px;
+  font-size: 60px;
   color: #35495e;
   letter-spacing: 1px;
   margin: 40px 0;
@@ -246,7 +246,7 @@ ul {
 
 .subtitle {
   font-weight: 300;
-  font-size: 14px;
+  font-size: 18px;
   color: #adb4c7;
   margin: 40px 0;
   @media screen and (max-width: 800px) {
