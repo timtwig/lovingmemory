@@ -133,7 +133,7 @@ html {
     }
   }
   &.details {
-    background: #2b3143;
+    background: #3c1832;
     color: white;
     align-items: flex-start;
     text-align: left;
