@@ -5,6 +5,7 @@
     </div>
     <div class="section details">
       <h1 class="title">Gallery</h1>
+      <p><em>Please click on a thumbnail to view</em></p>
       <CoolLightBox 
         :items="images" 
         :index="index"
