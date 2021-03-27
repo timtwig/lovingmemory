@@ -10,6 +10,7 @@
       <tr>
       <td><img height="60" class="top" src="~/assets/primrose.png" alt="Primrose" /></td>
       <td><img height="60" class="top" src="~/assets/primrose.png" alt="Primrose" /></td>
+      <td><img height="60" class="top" src="~/assets/primrose.png" alt="Primrose" /></td>
       </tr>
       </table>
       <div class="subtitle"><div class="name">{{ $config.name }}</div>{{ $config.dates }}</div>
