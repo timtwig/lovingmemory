@@ -11,21 +11,6 @@
       <p>The church service is being performed at Bromford Bridge Christian Centre
       </p>
       <a class="button" target="_blank" rel=”noopener” href="">Click here for the Livestream</a>
-      <h2>Church Service - Order - 12pm</h2>
-      <ul class="fa-ul">
-        <ListItem>Service starts at 12pm at Bromford Bridge Christian Centre</ListItem>
-        <ListItem>Entrance music: Jesu Joy of Man's desire</ListItem>
-        <ListItem>Scripture reading</ListItem>
-        <ListItem>Welcome &amp; Opening Prayer</ListItem>
-        <ListItem>Song: Goodness of God</ListItem>
-        <ListItem>Tributes - Family &amp; Friends</ListItem>
-        <ListItem>Few moments of quiet</ListItem>
-        <ListItem>Tribute - Brian Atkins</ListItem>
-        <ListItem>Prayer of Commendation</ListItem>
-        <ListItem>Closing prayer &amp; Grace blessing</ListItem>
-        <ListItem>Exit music: Waymaker</ListItem>
-      </ul>
-      <h2>Burial - 1.30pm</h2>
       </ul>
     </div>
   </div>
