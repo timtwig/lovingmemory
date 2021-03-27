@@ -134,7 +134,7 @@ html {
     img.top {
       //-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
       //filter: grayscale(100%);
-      box-sizing: content-box;
+      //box-sizing: content-box;
       border: 0px solid #fff;
     }
   }
