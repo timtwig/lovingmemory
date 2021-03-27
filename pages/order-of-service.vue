@@ -14,7 +14,7 @@
       <h2>Church Service - Order - 12pm</h2>
       <ul class="fa-ul">
         <ListItem>Service starts at 12pm at Bromford Bridge Christian Centre</ListItem>
-        <ListItem>Entrance music: Jesu Joy of Man's desire Be</ListItem>
+        <ListItem>Entrance music: Jesu Joy of Man's desire</ListItem>
         <ListItem>Scripture reading</ListItem>
         <ListItem>Welcome &amp; Opening Prayer</ListItem>
         <ListItem>Song: Goodness of God</ListItem>
