@@ -9,7 +9,7 @@
       <table>
       <tr>
       <td><img height="60" class="top" src="~/assets/primrose2.png" alt="Primrose" /></td>
-      <td><img height="60" class="top" src="~/assets/primrose2.png" alt="Primrose" /></td>
+      <td><img height="60" class="top" src="~/assets/primrose.png" alt="Primrose" /></td>
       <td><img height="60" class="top" src="~/assets/primrose2.png" alt="Primrose" /></td>
       </tr>
       </table>
