@@ -10,8 +10,7 @@
       <h2>Church Service - Livestream</h2>
       <p>The church service is being performed at Bromford Bridge Christian Centre
       </p>
-      <a class="button" target="_blank" rel=”noopener” href="">Click here for the Livestream</a>
-      </ul>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/_davN-ic8I0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
 </template>
