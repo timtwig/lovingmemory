@@ -296,7 +296,7 @@ ul {
 }
 
 .video-container::after {
-  padding-top: 56.25%;
+  padding-top: 75%;
   display: block;
   content: '';
 }
