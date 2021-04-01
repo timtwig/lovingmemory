@@ -15,7 +15,7 @@
       </div>
     <p> If you are experiencing any difiiculties with the above link, please <a target="_blank" href="https://www.youtube.com/embed/_davN-ic8I0">click here</a> to watch directly on Youtube.</p>
     </div>
-          <h2>Church Service - Order - 12pm</h2>
+    <p><h2>Church Service - Order - 12pm</h2>
       <ul class="fa-ul">
         <ListItem>Service starts at 12pm at Bromford Bridge Christian Centre</ListItem>
         <ListItem>Entrance music: Jesu Joy of Man's desire – played by Brian Atkins</ListItem>
