@@ -13,7 +13,7 @@
       <div class="video-container">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/_davN-ic8I0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-    <p> If you are experiencing any difiiculties with the above link, please <a class="button" target="_blank" href="https://www.youtube.com/embed/_davN-ic8I0">click here</a> to watch directly on Youtube.</p>
+    <p> If you are experiencing any difiiculties with the above link, please <a target="_blank" href="https://www.youtube.com/embed/_davN-ic8I0">click here</a> to watch directly on Youtube.</p>
     </div>
   </div>
 </template>
