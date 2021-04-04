@@ -14,6 +14,24 @@
       <iframe width="560" height="315" src="https://www.youtube.com/embed/_davN-ic8I0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
     <p> If you are experiencing any difiiculties with the above link, please <a target="_blank" href="https://www.youtube.com/embed/_davN-ic8I0">click here</a> to watch directly on Youtube.</p>
+      <h2>Church Service - Order - 12pm</h2>
+      <ul class="fa-ul">
+        <ListItem>Service starts at 12pm at Bromford Bridge Christian Centre</ListItem>
+        <ListItem>Entry music: Jesu Joy of Man's desire – recorded by Brian Atkins</ListItem>
+        <ListItem>Welcome &amp; Introduction – Matthew Atkins</ListItem>
+        <ListItem>Song: <a href="https://www.wearegateway.ca/it/downloads/music/lyrics/10,000Reasons.pdf" target=”_blank”>10,000 Reasons (Bless the Lord)</a></ListItem>
+        <ListItem>Bible reading – Psalm 116:1-7</ListItem>
+        <ListItem>Tribute address - Brian Atkins</ListItem>
+        <ListItem>Hymn: <a href="https://library.timelesstruths.org/music/There_Is_Power_in_the_Blood/" target="_blank">Would you be free (There is power)</a></ListItem>
+        <ListItem>Prayers</ListItem>
+        <ListItem>Tribute from Children</ListItem>
+        <ListItem>Song: <a href="https://district.church/wp-content/uploads/Way-Maker-Leeland-Lyrics.pdf" target="_blank">Way maker</a></ListItem>
+        <ListItem>Bible reading – John 12: 24-26</ListItem>
+        <ListItem>Tributes from Grandchildren</ListItem>
+        <ListItem>Closing Prayer</ListItem>
+        <ListItem>Recessional music: <a href="https://www.wearegateway.ca/it/downloads/music/lyrics/NoLongerSlaves.pdf" target="_blank">I am a Child of God</ListItem>
+      </ul>
+
     </div>
   </div>
 </template>
