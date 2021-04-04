@@ -189,7 +189,7 @@ html {
       overflow: hidden;
       position: relative;
       width: 100%;
-      min-height: 100%;
+      min-height: 320px;
     }
 
     .video-container::after {
