@@ -196,7 +196,7 @@ html {
     border-top: 1px solid rgba(255,255,255,0.2);
   }
   a {
-    color: #000000;
+    color: #ffffff;
   }
 }
 ul {
@@ -207,10 +207,9 @@ ul {
   li {
   }
   a {
-    color: $highlight;
+    color: #ffffff;
     text-decoration: none;
     padding: 10px 0;
-    display: flex;
     align-items: center;
     &.nuxt-link-exact-active {
       color: #111;
