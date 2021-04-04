@@ -296,6 +296,7 @@ ul {
   overflow: hidden;
   position: relative;
   width: 100%;
+  min-height: 320px;
 }
 
 .video-container::after {
@@ -310,6 +311,5 @@ ul {
   left: 0;
   width: 100%;
   height: 100%;
-  min-height: 320px; 
 }
 </style>
