@@ -294,6 +294,7 @@ ul {
 
 .video-container {
   flex: 1 1 auto;
+  display: flex;
   overflow: hidden;
   position: relative;
   width: 100%;
