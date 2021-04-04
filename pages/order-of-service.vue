@@ -18,7 +18,7 @@
       <h2>Church Service - Order - 12pm</h2>
       <ul class="fa-ul">
         <ListItem>Service starts at 12pm at Bromford Bridge Christian Centre</ListItem>
-        <ListItem>Entry music: Jesu Joy of Man's desire – recorded by Brian Atkins</ListItem>
+        <ListItem>Entry music: Jesu, Joy of Man's Desiring – recorded by Brian Atkins</ListItem>
         <ListItem>Welcome &amp; Introduction – Matthew Atkins</ListItem>
         <ListItem>Song:<a class="whitelink" href="https://www.wearegateway.ca/it/downloads/music/lyrics/10,000Reasons.pdf" target=”_blank”> 10,000 Reasons (Bless the Lord)</a></ListItem>
         <ListItem>Bible reading – Psalm 116:1-7</ListItem>
