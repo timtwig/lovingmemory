@@ -183,6 +183,28 @@ html {
         border-radius: 4px;
       }
     }
+    .video-container {
+      flex: 1 1 auto;
+      display: flex;
+      overflow: hidden;
+      position: relative;
+      width: 100%;
+      min-height: 100%;
+    }
+
+    .video-container::after {
+      padding-top: 56.25%;
+      display: block;
+      content: '';
+    }
+
+    .video-container iframe{
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
   }
   .button {
     padding: 15px 30px;
@@ -290,27 +312,5 @@ ul {
 
 .svg-inline--fa.fa-fw {
     width: 1.25em;
-}
-
-.video-container {
-  flex: 1 1 auto;
-  display: flex;
-  overflow: hidden;
-  position: relative;
-  width: 100%;
-}
-
-.video-container::after {
-  padding-top: 56.25%;
-  display: block;
-  content: '';
-}
-
-.video-container iframe{
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
 }
 </style>
