@@ -210,6 +210,7 @@ ul {
     color: $highlight;
     text-decoration: none;
     padding: 10px 0;
+    display: flex;
     align-items: center;
     &.nuxt-link-exact-active {
       color: #111;
