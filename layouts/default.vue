@@ -293,10 +293,10 @@ ul {
 }
 
 .video-container {
+  flex: 1 1 auto;
   overflow: hidden;
   position: relative;
   width: 100%;
-  min-height: 320px;
 }
 
 .video-container::after {
