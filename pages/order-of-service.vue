@@ -13,9 +13,8 @@
       <div class="video-container">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/_davN-ic8I0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-    <p> If you are experiencing any difiiculties with the above link, please <a target="_blank" href="https://www.youtube.com/embed/_davN-ic8I0">click here</a> to watch directly on Youtube.</p>
-    </div>
-    <p> <h2>Church Service - Order - 12pm</h2>
+    <p> If you are experiencing any difiiculties with the above link, please <a target="_blank" href="https://www.youtube.com/embed/_davN-ic8I0">click here</a> to watch directly on Youtube.
+          <h2>Church Service - Order - 12pm</h2>
       <ul class="fa-ul">
         <ListItem>Service starts at 12pm at Bromford Bridge Christian Centre</ListItem>
         <ListItem>Entry music: Jesu Joy of Man's desire – recorded by Brian Atkins</ListItem>
@@ -32,7 +31,8 @@
         <ListItem>Closing Prayer</ListItem>
         <ListItem>Recessional music: <a href=”https://www.wearegateway.ca/it/downloads/music/lyrics/NoLongerSlaves.pdf” target=”_blank”>I am a Child of God</ListItem>
       </ul>
-      </p>
+</p>
+    </div>
   </div>
 </template>
 
