@@ -146,7 +146,6 @@ html {
     padding: 40px;
     justify-content: normal;
     overflow: auto;
-    height: 100vh;
 
     p {
       margin: 10px 0;
