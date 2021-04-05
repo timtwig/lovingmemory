@@ -184,26 +184,18 @@ html {
       }
     }
     .video-container {
-      flex: 1 1 auto;
       display: flex;
-      overflow: hidden;
-      position: relative;
-      width: 100%;
-      min-height: 320px;
-    }
-
-    .video-container::after {
-      padding-top: 56.25%;
-      display: block;
-      content: '';
-    }
-
-    .video-container iframe{
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
+      width: auto;
+      max-width: 100%;
+      &:after {
+        padding-top: 56.25%;
+        display: block;
+        content: '';
+      }
+      iframe {
+        height: auto;
+        max-width: 100%;
+      }
     }
   }
   .button {
