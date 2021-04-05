@@ -30,7 +30,7 @@
         <ListItem>Bible reading – John 12: 24-26</ListItem>
         <ListItem>Tributes from Grandchildren</ListItem>
         <ListItem>Closing Prayer</ListItem>
-        <ListItem>Recessional music:<a class="whitelink" href="https://www.wearegateway.ca/it/downloads/music/lyrics/NoLongerSlaves.pdf" target="_blank"> I am a Child of God</ListItem>
+        <ListItem>Recessional music:<a class="whitelink" href="https://www.wearegateway.ca/it/downloads/music/lyrics/NoLongerSlaves.pdf" target="_blank"> I am a Child of God</a></ListItem>
       </ul>
     </div>
     </div>

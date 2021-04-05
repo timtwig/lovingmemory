@@ -15,6 +15,7 @@
       an education and opportunity for these children would be a fitting tribute to Sylvia's memory.
       </p>
       <a class="button" target="_blank" rel=”noopener” href="https://abtaylorfunerals.co.uk/donations/">Donate here</a>
+    </div>
   </div>
   
 </template>
