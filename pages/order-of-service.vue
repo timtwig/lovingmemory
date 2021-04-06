@@ -11,9 +11,9 @@
       <p>The church service is taking place at Bromford Bridge Christian Centre. The Livestream will commence at 11.50am.
       </p>
       <div class="video-container">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/_davN-ic8I0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/4be1HndtkTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-    <p> If you are experiencing any difficulties with the above link, please <a class="whitelink" target="_blank" href="https://www.youtube.com/embed/_davN-ic8I0">click here</a> to watch directly on Youtube.</p>
+    <p> If you are experiencing any difficulties with the above link, please <a class="whitelink" target="_blank" href="https://youtu.be/4be1HndtkTA">click here</a> to watch directly on Youtube.</p>
       <div>
       <h2>Church Service - Order - 12pm</h2>
       <ul class="fa-ul">
